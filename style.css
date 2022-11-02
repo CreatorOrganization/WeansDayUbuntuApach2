@@ -2,9 +2,15 @@
 
 body{
       background-color: blanchedalmond;
+  font-family: 'Noto Sans JP', sans-serif;
 }
 
 header{
-  color: forestgreen;
-  background-color: chartreuse;
+  margin:0;
+  padding:0;
+background-color: forestgreen;
+}
+page{
+  float: left;
+  width: 100px;
 }
